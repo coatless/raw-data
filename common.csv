@@ -1,0 +1,348 @@
+make,model,n,years
+Acura,Integra,42,16
+Acura,Legend,28,10
+Acura,MDX 4WD,12,12
+Acura,NSX,28,14
+Acura,TSX,27,11
+Audi,A4,49,19
+Audi,A4 Avant quattro,49,15
+Audi,A4 quattro,66,19
+Audi,A6,20,19
+Audi,A6 Avant quattro,12,12
+Audi,A6 quattro,46,20
+Audi,A8,20,15
+Audi,A8 L,30,16
+Audi,S4,29,16
+Audi,TT Coupe quattro,23,15
+Audi,TT Roadster quattro,20,14
+Bentley,Arnage,12,11
+Bentley,Continental GT,15,11
+BMW,328i,21,10
+BMW,525i,30,14
+BMW,528i,20,12
+BMW,535i,25,12
+BMW,740i,12,10
+BMW,750i,10,10
+BMW,750il,14,12
+BMW,M3,27,17
+BMW,M3 Convertible,26,14
+BMW,M5,20,14
+Buick,Century,51,20
+Buick,Century Wagon,41,12
+Buick,LeSabre,26,21
+Buick,Park Avenue,28,15
+Buick,Regal,70,23
+Buick,Riviera,19,14
+Buick,Skylark,38,12
+Cadillac,CTS,48,12
+Cadillac,DeVille,13,11
+Cadillac,Eldorado,21,18
+Cadillac,Escalade 2WD,15,14
+Cadillac,Escalade AWD,13,13
+Cadillac,Limousine,15,15
+Cadillac,Seville,24,20
+Cadillac,SRX 2WD,17,11
+Cadillac,SRX AWD,19,11
+Chevrolet,Astro 2WD (cargo),50,21
+Chevrolet,Astro 2WD (passenger),41,21
+Chevrolet,Astro AWD (cargo),17,16
+Chevrolet,Astro AWD (passenger),17,16
+Chevrolet,Avalanche 1500 2WD,21,12
+Chevrolet,Avalanche 1500 4WD,14,10
+Chevrolet,Beretta,45,10
+Chevrolet,Blazer 2WD,22,11
+Chevrolet,Blazer 4WD,22,11
+Chevrolet,C1500 Pickup 2WD,106,11
+Chevrolet,Camaro,130,23
+Chevrolet,Cavalier,94,21
+Chevrolet,Cavalier Wagon,41,10
+Chevrolet,Corsica,35,10
+Chevrolet,Corvette,78,30
+Chevrolet,Equinox AWD,24,10
+Chevrolet,Equinox FWD,24,10
+Chevrolet,Express 1500/2500 2WD,33,13
+Chevrolet,G10/20 Sport Van 2WD,65,10
+Chevrolet,G10/20 Van 2WD,96,12
+Chevrolet,G30 Van 2WD,19,12
+Chevrolet,Impala,44,15
+Chevrolet,K1500 Pickup 4WD,101,11
+Chevrolet,Malibu,46,18
+Chevrolet,Monte Carlo,33,11
+Chevrolet,S10 Blazer 2WD,54,11
+Chevrolet,S10 Pickup 2WD,118,20
+Chevrolet,S10 Pickup 4WD,37,16
+Chevrolet,Sprint,20,10
+Chevrolet,Suburban 1500 2WD,32,22
+Chevrolet,Suburban 1500 4WD,25,18
+Chevrolet,Tahoe 1500 2WD,44,19
+Chevrolet,Tahoe 1500 4WD,38,19
+Chevrolet,Van 1500/2500 2WD,35,13
+Chrysler,Concorde,22,10
+Chrysler,LeBaron,47,10
+Chrysler,LeBaron Convertible,43,11
+Chrysler,PT Cruiser,32,10
+Chrysler,Sebring,64,15
+Chrysler,Sebring Convertible,41,13
+Chrysler,Town and Country 2WD,18,11
+Dodge,Avenger,43,13
+Dodge,B150/B250 Van 2WD,85,11
+Dodge,B150/B250 Wagon 2WD,81,11
+Dodge,B350 Van 2WD,36,11
+Dodge,B350 Wagon 2WD,30,11
+Dodge,Caravan/Grand Caravan 2WD,88,18
+Dodge,Charger,56,12
+Dodge,Colt,47,10
+Dodge,D100/D150 Pickup 2WD,112,10
+Dodge,D250 Pickup 2WD,73,10
+Dodge,Dakota Pickup 2WD,109,25
+Dodge,Dakota Pickup 4WD,89,25
+Dodge,Durango 2WD,39,14
+Dodge,Durango 4WD,34,15
+Dodge,Intrepid,36,12
+Dodge,Ram 1500 Pickup 2WD,99,19
+Dodge,Ram 1500 Pickup 4WD,59,19
+Dodge,Ram 50 Pickup 2WD,47,10
+Dodge,Stratus,54,11
+Dodge,Viper Convertible,12,12
+Dodge,W100/W150 Pickup 4WD,64,10
+Dodge,W250 Pickup 4WD,41,10
+Ford,Aerostar Van,32,12
+Ford,Aerostar Wagon,33,12
+Ford,Bronco 4WD,86,13
+Ford,Crown Victoria,15,13
+Ford,Crown Victoria Police,14,14
+Ford,E150 Club Wagon,77,22
+Ford,E150 Econoline 2WD,105,23
+Ford,E250 Econoline 2WD,71,22
+Ford,Escape 4WD,22,11
+Ford,Escort,73,18
+Ford,Escort Wagon,45,15
+Ford,Expedition 2WD,20,12
+Ford,Expedition 4WD,18,10
+Ford,Explorer 2WD,50,20
+Ford,Explorer 4WD,51,21
+Ford,F150 Pickup 2WD,200,31
+Ford,F150 Pickup 4WD,178,31
+Ford,F250 Pickup 2WD,106,15
+Ford,F250 Pickup 4WD,57,11
+Ford,LTD Crown Victoria,19,10
+Ford,Mustang,153,30
+Ford,Ranger Pickup 2WD,169,26
+Ford,Ranger Pickup 4WD,113,26
+Ford,Taurus,61,22
+Ford,Taurus SHO,13,10
+Ford,Taurus Wagon,46,20
+Ford,Tempo,38,10
+Ford,Thunderbird,58,17
+GMC,Jimmy 2WD,26,13
+GMC,Jimmy 4WD,26,13
+GMC,Safari 2WD (cargo),50,21
+GMC,Safari 2WD (passenger),35,15
+GMC,Safari AWD (cargo),17,16
+GMC,Safari AWD (passenger),11,10
+GMC,Savana 1500 AWD (Passenger),15,12
+GMC,Savana 1500/2500 2WD (cargo),35,13
+GMC,Sierra 1500 2WD,149,18
+GMC,Sierra 1500 4WD,149,18
+GMC,Sonoma 2WD,58,13
+GMC,Sonoma 4WD,33,14
+GMC,Yukon 1500 2WD,46,19
+GMC,Yukon 1500 4WD,43,21
+GMC,Yukon XL 1500 2WD,30,14
+GMC,Yukon XL 1500 4WD,18,12
+Honda,Accord,125,30
+Honda,Civic,142,30
+Honda,Civic CNG,13,13
+Honda,Civic Hybrid,21,12
+Honda,CR-V 2WD,19,17
+Honda,CR-V 4WD,28,18
+Honda,Insight,24,12
+Honda,Odyssey,29,20
+Honda,Pilot 4WD,12,12
+Honda,Prelude,66,16
+Honda,S2000,10,10
+Hyundai,Accent,28,13
+Hyundai,Elantra,55,22
+Hyundai,Santa Fe 2WD,43,14
+Hyundai,Santa Fe 4WD,27,14
+Hyundai,Sonata,84,26
+Hyundai,Tiburon,43,11
+Hyundai,Tucson 2WD,31,10
+Hyundai,Tucson 4WD,20,10
+Infiniti,FX35 AWD,10,10
+Infiniti,G20,23,10
+Infiniti,Q45,17,17
+Infiniti,QX56 2WD,10,10
+Infiniti,QX56 4WD,10,10
+Isuzu,Pickup 2WD,65,12
+Isuzu,Pickup 4WD,26,12
+Isuzu,Rodeo 2WD,44,14
+Isuzu,Rodeo 4WD,29,14
+Isuzu,Trooper,46,16
+Jaguar,XJ6,13,12
+Jaguar,XJR,12,12
+Jaguar,XKR,10,10
+Jaguar,XKR Convertible,10,10
+Jeep,Cherokee 2WD,56,15
+Jeep,Cherokee 4WD,42,13
+Jeep,Grand Cherokee 2WD,49,22
+Jeep,Grand Cherokee 4WD,63,22
+Jeep,Wrangler 4WD,71,23
+Kia,Optima,47,15
+Kia,Rio,30,14
+Kia,Sedona,12,12
+Kia,Sorento 2WD,27,11
+Kia,Sorento 4WD,23,11
+Kia,Sportage 2WD,45,18
+Kia,Sportage 4WD,42,18
+Land Rover,Range Rover,39,25
+Lexus,ES 300,14,12
+Lexus,LS 400,11,11
+Lexus,LX 470,10,10
+Lincoln,Continental,19,18
+Lincoln,Navigator 2WD,12,11
+Lincoln,Town Car,28,24
+Maserati,Quattroporte,12,10
+Mazda,3,42,10
+Mazda,6,47,13
+Mazda,626,49,13
+Mazda,B4000 4WD,20,10
+Mazda,MPV,32,17
+Mazda,MX-5,30,10
+Mazda,MX-5 Miata,39,15
+Mazda,RX-7,30,11
+Mazda,Tribute 4WD,20,10
+Mercedes-Benz,CL600,16,16
+Mercedes-Benz,S500,11,11
+Mercedes-Benz,S600,17,17
+Mercedes-Benz,SL500,13,13
+Mercedes-Benz,SL600,15,15
+Mercedes-Benz,SLK350,17,10
+Mercury,Cougar,48,17
+Mercury,Grand Marquis,26,23
+Mercury,Mountaineer 2WD,27,14
+Mercury,Mountaineer 4WD,24,13
+Mercury,Sable,43,20
+Mercury,Sable Wagon,42,20
+Mercury,Topaz,38,10
+Mercury,Tracer,34,11
+Mercury,Tracer Wagon,22,11
+Mercury,Villager FWD Wagon,10,10
+MINI,Cooper,23,12
+MINI,Cooper Convertible,22,11
+MINI,Cooper S,20,11
+MINI,Cooper S Convertible,22,11
+Mitsubishi,Diamante,16,11
+Mitsubishi,Eclipse,133,23
+Mitsubishi,Eclipse Spyder,44,11
+Mitsubishi,Galant,72,27
+Mitsubishi,Lancer,54,13
+Mitsubishi,Lancer Evolution,20,11
+Mitsubishi,Mirage,91,19
+Mitsubishi,Montero,53,21
+Mitsubishi,Outlander 2WD,20,12
+Mitsubishi,Outlander 4WD,21,12
+Mitsubishi,Truck 2WD,57,13
+Mitsubishi,Truck 4WD,36,12
+Nissan,240SX,19,10
+Nissan,300ZX,52,12
+Nissan,300ZX 2x2,25,12
+Nissan,Altima,53,17
+Nissan,Armada 2WD,16,10
+Nissan,Armada 4WD,16,10
+Nissan,Frontier 2WD,48,17
+Nissan,Frontier 4WD,17,10
+Nissan,Maxima,57,30
+Nissan,Murano AWD,11,11
+Nissan,Pathfinder 2WD,49,26
+Nissan,Pathfinder 4WD,53,28
+Nissan,Quest,23,20
+Nissan,Sentra,103,25
+Nissan,Titan 2WD,19,11
+Nissan,Titan 4WD,19,11
+Nissan,Truck 2WD,49,12
+Nissan,Truck 4WD,30,12
+Nissan,Xterra 2WD,21,15
+Nissan,Xterra 4WD,20,10
+Oldsmobile,Bravada AWD,15,13
+Oldsmobile,Cutlass Ciera,41,11
+Oldsmobile,Cutlass Cruiser,29,10
+Oldsmobile,Cutlass Supreme,42,13
+Oldsmobile,Silhouette 2WD,19,15
+Plymouth,Colt,44,10
+Plymouth,Colt Vista,40,10
+Plymouth,Voyager/Grand Voyager 2WD,74,14
+Pontiac,Bonneville,43,21
+Pontiac,Firefly,22,10
+Pontiac,Grand Am,81,21
+Pontiac,Grand Prix,79,24
+Pontiac,Sunbird,47,10
+Pontiac,Sunfire,46,11
+Porsche,911 Carrera,25,10
+Porsche,911 Turbo,18,13
+Porsche,Boxster,40,18
+Porsche,Boxster S,30,15
+Porsche,Cayenne,21,11
+Porsche,Cayenne S,12,12
+Porsche,Cayenne Turbo,12,12
+Rolls-Royce,Phantom,11,11
+Roush Performance,Stage 3 Mustang,22,13
+Saab,9-3 Convertible,42,14
+Saab,9-3 Sport Sedan,35,10
+Saab,900,67,13
+Saab,9000,55,13
+Saturn,SC,44,12
+Saturn,SL,48,12
+Scion,tC,20,10
+Scion,xB,20,10
+Subaru,Forester AWD,53,18
+Subaru,Impreza AWD,83,22
+Subaru,Impreza Wagon AWD,29,11
+Subaru,Legacy AWD,71,21
+Subaru,Legacy Wagon AWD,40,13
+Suzuki,Grand Vitara,28,13
+Suzuki,Grand Vitara 4WD,21,11
+Suzuki,Swift,38,14
+Toyota,4Runner 2WD,46,25
+Toyota,4Runner 4WD,86,31
+Toyota,Avalon,22,20
+Toyota,Camry,112,30
+Toyota,Camry Solara,34,10
+Toyota,Camry Wagon,22,10
+Toyota,Celica,87,21
+Toyota,Celica Convertible,25,12
+Toyota,Corolla,104,30
+Toyota,Highlander 2WD,27,14
+Toyota,Highlander 4WD,20,13
+Toyota,Land Cruiser Wagon 4WD,30,30
+Toyota,Matrix,46,11
+Toyota,MR2,37,16
+Toyota,Prius,14,14
+Toyota,RAV4 2WD,35,18
+Toyota,RAV4 4WD,34,17
+Toyota,Sequoia 2WD,19,14
+Toyota,Sequoia 4WD,20,14
+Toyota,Sienna 2WD,20,17
+Toyota,Supra,48,13
+Toyota,Tacoma 2WD,88,20
+Toyota,Tacoma 4WD,74,20
+Toyota,Tercel,50,15
+Toyota,Truck 2WD,81,11
+Toyota,Truck 4WD,47,11
+Toyota,Tundra 2WD,45,15
+Toyota,Tundra 4WD,34,15
+Volkswagen,Golf,64,17
+Volkswagen,GTI,49,18
+Volkswagen,Jetta,150,27
+Volkswagen,New Beetle,61,13
+Volkswagen,Passat,92,24
+Volkswagen,Passat Wagon,64,20
+Volkswagen,Touareg,27,11
+Volvo,C70 Convertible,28,11
+Volvo,S40 FWD,32,12
+Volvo,S60 AWD,20,13
+Volvo,S60 FWD,42,12
+Volvo,S80 AWD,17,12
+Volvo,S80 FWD,12,11
+Volvo,V70 AWD,15,10
+Volvo,V70 FWD,54,13
