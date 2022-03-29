@@ -7,6 +7,7 @@ Within this repository, we include a collection of data in "raw form" or "flat f
 - [Salaries.csv](Salaries.csv) from the [`carData`](https://cran.r-project.org/package=carData) _R_ package. ([Details](https://cran.r-project.org/web/packages/carData/carData.pdf#page=43))
 - [pima.csv](pima.csv) from the [`faraway`](https://cran.r-project.org/package=faraway) _R_ package. ([Details](https://cran.r-project.org/web/packages/faraway/faraway.pdf#page=74))
 - [gap-every-five-years.csv](gap-every-five-years.csv) from [`gapminder`](https://github.com/jennybc/gapminder/tree/main/data-raw)
+- [xbox-7-day-auctions.csv](xbox-7-day-auctions.csv) from [modelingonlineauctions.com/](http://www.modelingonlineauctions.com/datasets).
 - [surreal-residual.csv](surreal-residual.csv) based on [Residual (Sur)Realism by Leonard A Stefanski (2012)](https://doi.org/10.1198/000313007X190079)
 - [vehicles.csv](vehicles.csv) from the [`fueleconomy`](https://cran.r-project.org/package=fueleconomy) _R_ package.
 - [common.csv](common.csv) from the [`fueleconomy`](https://cran.r-project.org/package=fueleconomy) _R_ package.
