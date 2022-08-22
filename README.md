@@ -14,7 +14,7 @@ Within this repository, we include a collection of data in "raw form" or "flat f
 - [flights.csv](Salaries.csv) from the [`nycflights13`](https://cran.r-project.org/package=nycflights13) _R_ package. ([Details](https://nycflights13.tidyverse.org/reference/flights.html))
 - [ucla-binary-enrollment.csv](ucla-binary-enrollment.csv) from [UCLA's OARC](https://stats.oarc.ucla.edu)
 - [tips.csv](tips.csv) from [`seaborn`'s data repository](https://github.com/mwaskom/seaborn-data/blob/master/tips.csv)
-- [ramen-ratings-cleaned.csv](ramen-ratings-cleaned.csv) from [Kaggle's `residentmario/ramen-ratings`](https://www.kaggle.com/datasets/residentmario/ramen-ratings)
+- [ramen-ratings-cleaned.csv](ramen-ratings-cleaned.csv) from [Kaggle's `residentmario/ramen-ratings`](https://www.kaggle.com/datasets/residentmario/ramen-ratings) (with minimal cleaning applied).
 - [diamonds.csv](diamonds.csv) from [`ggplot2`'s data-raw directory](https://github.com/tidyverse/ggplot2/blob/main/data-raw/diamonds.csv)
 
 ## Excel 
