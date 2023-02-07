@@ -40,5 +40,5 @@ Within this repository, we include a collection of data in "raw form" or "flat f
 
 ## Parquet
 
-- [2010-flights-summary.parquet.zip](2010-flights-summary.parquet.zip
+- [2010-flights-summary.parquet.zip](2010-flights-summary.parquet.zip)
 
